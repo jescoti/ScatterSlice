@@ -1,0 +1,11 @@
+Experiment:
+Cells treated with IL-2 in the indicated doses (log10 M) for 10 minutes at 37 °C.
+
+16 files
+1 titration
+16 doses per titration
+
+Staining:
+APC: phospho-STAT5
+PE-Cy7: CD25
+Alexa-700: Marker 2
